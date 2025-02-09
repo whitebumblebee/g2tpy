@@ -132,6 +132,4 @@ Invalid local path
 
 ### License
 
-MIT License (assumes you have a LICENSE file)
-
 This README provides clear instructions on how to use the Python `g2tpy` tool, including all the options and arguments, supported URL formats, and expected output format. It should be easy for users to understand and get started with the tool.
